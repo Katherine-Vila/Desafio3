@@ -90,10 +90,12 @@ Sitio web tipo portfolio para el restaurante ficticio "La Toscana", con diseño 
 
 ```
 Desafio3-LME/
-├── index.html          # Estructura HTML principal
-├── styles.css          # Estilos CSS con media queries
-├── script.js           # JavaScript para interactividad
-└── README.md           # Documentación del proyecto
+├── index.html                # Estructura HTML principal
+├── styles.css                # Estilos CSS con media queries
+├── script.js                 # JavaScript para interactividad
+└── README                    # Documentación del proyecto
+└── Documentacion.PDF         # Documentación PDF del proyecto
+└── Explicacion.MP4           # Video Explicativo del proyecto
 ```
 
 ---
@@ -184,6 +186,4 @@ El código incluye comentarios explicativos en HTML, CSS y JS para facilitar la 
 Desarrollado por **Katherine Alexandra Pinto Vila**  
 📅 Octubre 2025 – Versión 1.0.0 – Estado: ✅ Completo
 
----
 
-¿Quieres que te ayude a preparar la portada del repositorio o el texto para el commit inicial? También puedo ayudarte a redactar el mensaje para subirlo a GitHub.
