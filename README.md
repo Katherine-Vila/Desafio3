@@ -1,4 +1,4 @@
-# 🌐 Desafío 3 - (RESTAURANTE DE COMIDA ITALIANA "LA TOSCANA")
+# 🌐 RESTAURANTE DE COMIDA ITALIANA "LA TOSCANA"
 
 ## 📋 Descripción del Proyecto
 
