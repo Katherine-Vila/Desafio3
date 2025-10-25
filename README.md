@@ -1,4 +1,4 @@
-# 🌐 Desafío 3 – Restaurante de Comida Italiana "La Toscana"
+# 🌐 Restaurante de Comida Italiana "La Toscana"
 
 Proyecto responsivo desarrollado como parte del **Desafío 3 - LME**, aplicando buenas prácticas de diseño web moderno, responsive design y componentes dinámicos.
 
